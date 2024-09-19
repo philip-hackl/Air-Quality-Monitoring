@@ -17,6 +17,7 @@ Dieses Projekt bietet eine interaktive Streamlit-Anwendung zur Überwachung und 
 6. [Anmerkungen](#anmerkungen)
 7. [Fehlerbehebung](#fehlerbehebung)
 8. [Lizenz](#lizenz)
+9. [Links](#links)
 
 ## Features
 
@@ -102,3 +103,8 @@ sns.set_theme(style="whitegrid")
 
 - **Keine Länder oder Städte verfügbar:** Überprüfen Sie Ihre API-Verbindung oder wählen Sie ein anderes Land/Stadt.
 - **Keine Daten gefunden:** Überprüfen Sie den Zeitraum und die Verfügbarkeit von Daten.
+
+## Links
+- [https://docs.openaq.org/docs/getting-started]
+- [https://python-graph-gallery.com/animation/](https://docs.openaq.org/reference/measurements_get_v2_measurements_get)
+- [https://explore.openaq.org/#1.78/36.7/-18.7]
