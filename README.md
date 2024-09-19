@@ -106,5 +106,5 @@ sns.set_theme(style="whitegrid")
 
 ## Links
 - [https://docs.openaq.org/docs/getting-started](https://docs.openaq.org/docs/getting-started)
-- [https://python-graph-gallery.com/animation/](https://docs.openaq.org/reference/measurements_get_v2_measurements_get)
+- [https://docs.openaq.org/reference/measurements_get_v2_measurements_get](https://docs.openaq.org/reference/measurements_get_v2_measurements_get)
 - [https://explore.openaq.org/#1.78/36.7/-18.7](https://explore.openaq.org/#1.78/36.7/-18.7)
